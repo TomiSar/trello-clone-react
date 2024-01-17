@@ -6,9 +6,9 @@
 
 - npx create-next-app@latest
 
-# Deployed application
+# Deployed application Vercel
 
-- Coming after implementation
+- https://trello-appwrite-clone-6sc7splw5-tomisar.vercel.app/
 
 ## Documentation
 
@@ -73,7 +73,7 @@
 - ES6
 - User authentication
 - HeroIcons (Icons)
-- Spotify login
+- Vercel
 
 ## Installation of needed Packages for application uging npm or yarn
 
@@ -85,6 +85,7 @@
 - npm install zustand
 - npm install openai
 - npm install @headlessui/react@latest
+- npm install -g vercel
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
